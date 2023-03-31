@@ -1,0 +1,38 @@
+[
+{
+    "nombre": "Malvina",
+    "apellido": "Pacheco",
+    "fechaNacimiento": "14/8/1969",
+    "documento": "20331897",
+    "telefono": "2281562050",
+    "miembroDesde": "28/3/2018",
+    "deporte": 2
+},
+{
+    "nombre": "Emanuel",
+    "apellido": "Salaberry",
+    "fechaNacimiento": "23/3/1986",
+    "documento": "36411976",
+    "telefono": "2281345629",
+    "miembroDesde": "2/3/2019",
+    "deporte": 4
+},
+{
+    "nombre": "Tomas",
+    "apellido": "Solis",
+    "fechaNacimiento": "12/7/2006",
+    "documento": "47345267",
+    "telefono": "2281408093",
+    "miembroDesde": "31/3/2020",
+    "deporte": 4
+},
+{
+    "nombre": "Agustin",
+    "apellido": "Banach",
+    "fechaNacimiento": "15/12/1990",
+    "documento": "35428797",
+    "telefono": "2281234562",
+    "miembroDesde": "31/3/2020",
+    "deporte": 0
+}
+]
